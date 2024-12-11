@@ -1,4 +1,4 @@
-# Assessment-for-Entry-Level-Junior-AI-ML-Engineer-at-Nagorik
+
 # Fine-Tuning Stable Diffusion for Image-to-Image Generation
 
 ## Overview
